@@ -9,7 +9,7 @@ Some of  generated results from different models:-
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/75840165/119509584-64dad200-bd8e-11eb-9c91-ad124c453eb5.png" width=450 height=300>
 
-`1) GPT2 124M`-
+`2) GPT2 124M`-
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/75840165/119511843-70c79380-bd90-11eb-83f2-5c759800027d.png" width=450 height=300>
 
